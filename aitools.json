@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tabnine",
+    "category": "Coding",
+    "desc_line1": "AI autocomplete that suggests full lines and functions.",
+    "desc_line2": "Supports multiple editors for faster coding.",
+    "url": "https://www.tabnine.com/",
+    "logo": "icons/tabnine.png"
+  },
+  {
+    "name": "Runway",
+    "category": "Creative",
+    "desc_line1": "Generative video & image tools for creators.",
+    "desc_line2": "Easy-to-use editing with AI effects.",
+    "url": "https://runwayml.com/",
+    "logo": "icons/runway.png"
+  },
+  {
+    "name": "Perplexity",
+    "category": "Search",
+    "desc_line1": "AI search assistant that returns sourced answers.",
+    "desc_line2": "Great for research and quick facts.",
+    "url": "https://www.perplexity.ai/",
+    "logo": "icons/perplexity.png"
+  },
+  {
+    "name": "Notion AI",
+    "category": "Productivity",
+    "desc_line1": "AI in Notion for summarization & writing help.",
+    "desc_line2": "Turn notes into action items instantly.",
+    "url": "https://www.notion.so/product/ai",
+    "logo": "icons/notion.png"
+  },
+  {
+    "name": "Gamma",
+    "category": "Presentations",
+    "desc_line1": "Create beautiful slide decks with AI.",
+    "desc_line2": "Auto-layouts and content suggestions.",
+    "url": "https://gamma.app/",
+    "logo": "icons/gamma.png"
+  },
+  {
+    "name": "Tabby (example)",
+    "category": "Utilities",
+    "desc_line1": "AI helpers for tab management and quick actions.",
+    "desc_line2": "Save time switching between tasks.",
+    "url": "https://example.com/",
+    "logo": ""
+  }
+]
