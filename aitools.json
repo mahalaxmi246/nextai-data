@@ -5,7 +5,7 @@
     "desc_line1": "AI autocomplete that suggests full lines and functions.",
     "desc_line2": "Supports multiple editors for faster coding.",
     "url": "https://www.tabnine.com/",
-    "logo": "icons/tabnine.png"
+    "logo": "https://cdn.simpleicons.org/tabnine/7C5CF5"
   },
   {
     "name": "Runway",
@@ -13,7 +13,7 @@
     "desc_line1": "Generative video & image tools for creators.",
     "desc_line2": "Easy-to-use editing with AI effects.",
     "url": "https://runwayml.com/",
-    "logo": "icons/runway.png"
+    "logo": "https://cdn.simpleicons.org/adobecreativecloud/7C5CF5"
   },
   {
     "name": "Perplexity",
@@ -21,7 +21,7 @@
     "desc_line1": "AI search assistant that returns sourced answers.",
     "desc_line2": "Great for research and quick facts.",
     "url": "https://www.perplexity.ai/",
-    "logo": "icons/perplexity.png"
+    "logo": "https://cdn.simpleicons.org/openai/7C5CF5"
   },
   {
     "name": "Notion AI",
@@ -29,7 +29,7 @@
     "desc_line1": "AI in Notion for summarization & writing help.",
     "desc_line2": "Turn notes into action items instantly.",
     "url": "https://www.notion.so/product/ai",
-    "logo": "icons/notion.png"
+    "logo": "https://cdn.simpleicons.org/notion/7C5CF5"
   },
   {
     "name": "Gamma",
@@ -37,7 +37,7 @@
     "desc_line1": "Create beautiful slide decks with AI.",
     "desc_line2": "Auto-layouts and content suggestions.",
     "url": "https://gamma.app/",
-    "logo": "icons/gamma.png"
+    "logo": "https://cdn.simpleicons.org/googlepresentation/7C5CF5"
   },
   {
     "name": "Tabby (example)",
@@ -45,6 +45,6 @@
     "desc_line1": "AI helpers for tab management and quick actions.",
     "desc_line2": "Save time switching between tasks.",
     "url": "https://example.com/",
-    "logo": ""
+    "logo": "https://cdn.simpleicons.org/tailwindcss/7C5CF5"
   }
 ]
