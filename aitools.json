@@ -1,243 +1,450 @@
 [
   {
-    "name": "Grammarly",
-    "category": "Study",
-    "desc_line1": "Checks grammar, clarity, and tone in writing.",
-    "desc_line2": "Includes plagiarism detection and style improvements.",
-    "url": "https://www.grammarly.com/",
-    "logo": "https://cdn.simpleicons.org/grammarly/E6E6E6"
+    "name": "ChatGPT",
+    "category": "AI Assistant",
+    "desc_line1": "Conversational AI by OpenAI.",
+    "desc_line2": "Helps with coding, writing, research, and more.",
+    "url": "https://chat.openai.com/",
+    "logo": "https://cdn.simpleicons.org/openai/E6E6E6"
   },
   {
-    "name": "GitHub Copilot",
-    "category": "Coding",
-    "desc_line1": "AI pair programmer that autocompletes code.",
-    "desc_line2": "Trained on billions of lines of open-source code.",
-    "url": "https://github.com/features/copilot",
-    "logo": "https://cdn.simpleicons.org/github/E6E6E6"
-  },
-  {
-    "name": "Zapier AI",
-    "category": "Automation",
-    "desc_line1": "Connects apps and automates workflows.",
-    "desc_line2": "AI-powered triggers for business and personal tasks.",
-    "url": "https://zapier.com/ai",
-    "logo": "https://cdn.simpleicons.org/zapier/E6E6E6"
-  },
-  {
-    "name": "Durable AI",
-    "category": "Business",
-    "desc_line1": "AI website builder that creates sites in seconds.",
-    "desc_line2": "Generates content, design, and hosting automatically.",
-    "url": "https://durable.co/",
-    "logo": "https://cdn.simpleicons.org/internetexplorer/E6E6E6"
-  },
-  {
-    "name": "ChefGPT",
-    "category": "Food",
-    "desc_line1": "Generates recipes from available ingredients.",
-    "desc_line2": "Supports meal planning and cooking tips.",
-    "url": "https://www.chefgpt.xyz/",
-    "logo": "https://cdn.simpleicons.org/foodpanda/E6E6E6"
-  },
-  {
-    "name": "RoomGPT",
-    "category": "Lifestyle",
-    "desc_line1": "Transforms room photos into new designs.",
-    "desc_line2": "Experiment with layouts and furniture virtually.",
-    "url": "https://www.roomgpt.io/",
-    "logo": "https://cdn.simpleicons.org/homeassistant/E6E6E6"
-  },
-  {
-    "name": "ElevenLabs",
-    "category": "Creative",
-    "desc_line1": "AI voice cloning and speech synthesis.",
-    "desc_line2": "High-quality voiceovers for content creators.",
-    "url": "https://elevenlabs.io/",
-    "logo": "https://cdn.simpleicons.org/elevenlabs/E6E6E6"
-  },
-  {
-    "name": "Otter.ai",
-    "category": "Study",
-    "desc_line1": "Transcribes meetings and lectures in real time.",
-    "desc_line2": "Creates searchable transcripts with summaries.",
-    "url": "https://otter.ai/",
-    "logo": "https://cdn.simpleicons.org/otter/E6E6E6"
-  },
-  {
-    "name": "Cursor AI",
-    "category": "Coding",
-    "desc_line1": "AI-first IDE that lets you chat with your code.",
-    "desc_line2": "Improves debugging, refactoring, and documentation.",
-    "url": "https://cursor.sh/",
-    "logo": "https://cdn.simpleicons.org/visualstudiocode/E6E6E6"
-  },
-  {
-    "name": "Jasper AI",
-    "category": "Business",
-    "desc_line1": "AI content writer for blogs, ads, and emails.",
-    "desc_line2": "Helps marketing teams scale faster.",
-    "url": "https://www.jasper.ai/",
-    "logo": "https://cdn.simpleicons.org/markdown/E6E6E6"
-  },
-  {
-    "name": "Monica AI",
-    "category": "Assistant/Extension",
-    "desc_line1": "AI assistant extension for chat, writing, and search.",
-    "desc_line2": "Helpful for interviews with real-time Q&A, voice, and summarization.",
-    "url": "https://monica.im/",
-    "logo": "https://cdn.simpleicons.org/monica/E6E6E6"
-  },
-  {
-    "name": "Job Copilot",
-    "category": "Career",
-    "desc_line1": "AI tool that automates job searching and applications.",
-    "desc_line2": "Finds relevant openings, customizes resumes, and applies automatically.",
-    "url": "https://jobcopilot.ai/",
-    "logo": "https://cdn.simpleicons.org/workplace/E6E6E6"
-  },
-  {
-    "name": "Bolt.new",
-    "category": "Coding",
-    "desc_line1": "AI builder for websites, web & mobile apps.",
-    "desc_line2": "Type your idea and Bolt generates frontend + backend in minutes.",
-    "url": "https://bolt.new/",
-    "logo": "https://cdn.simpleicons.org/stackblitz/E6E6E6"
-  },
-  {
-    "name": "MyFitnessPal",
-    "category": "Health",
-    "desc_line1": "AI-enhanced nutrition and calorie tracker.",
-    "desc_line2": "Personalized diet insights and meal logging.",
-    "url": "https://www.myfitnesspal.com/",
-    "logo": "https://cdn.simpleicons.org/apple/E6E6E6"
-  },
-  {
-    "name": "StyleDNA",
-    "category": "Lifestyle",
-    "desc_line1": "AI-powered personal styling assistant.",
-    "desc_line2": "Recommends outfits that fit your profile.",
-    "url": "https://styledna.ai/",
+    "name": "Google Gemini",
+    "category": "AI Assistant",
+    "desc_line1": "Google’s multimodal AI model.",
+    "desc_line2": "Supports text, images, code, and integrations.",
+    "url": "https://gemini.google.com/",
     "logo": "https://cdn.simpleicons.org/google/E6E6E6"
   },
   {
-    "name": "Character AI",
-    "category": "Creative",
-    "desc_line1": "Chat with AI-powered fictional characters.",
-    "desc_line2": "Create custom personalities for fun or learning.",
-    "url": "https://beta.character.ai/",
-    "logo": "https://cdn.simpleicons.org/ai/E6E6E6"
+    "name": "Microsoft Copilot",
+    "category": "Productivity",
+    "desc_line1": "AI integrated into Microsoft 365 apps.",
+    "desc_line2": "Assists with Word, Excel, Outlook, and more.",
+    "url": "https://copilot.microsoft.com/",
+    "logo": "https://cdn.simpleicons.org/microsoft/E6E6E6"
   },
   {
-    "name": "Perplexity",
+    "name": "DeepSeek",
+    "category": "AI Assistant",
+    "desc_line1": "Chinese AI model gaining global traction.",
+    "desc_line2": "Competitive LLM for text and research tasks.",
+    "url": "https://www.deepseek.com/",
+    "logo": "https://cdn.simpleicons.org/abstract/E6E6E6"
+  },
+  {
+    "name": "Perplexity AI",
     "category": "Study",
-    "desc_line1": "AI search engine with cited answers.",
-    "desc_line2": "Ideal for research and fact-checking.",
+    "desc_line1": "AI-powered search engine.",
+    "desc_line2": "Provides cited, real-time answers for research.",
     "url": "https://www.perplexity.ai/",
     "logo": "https://cdn.simpleicons.org/openai/E6E6E6"
   },
   {
-    "name": "CodiumAI",
+    "name": "Claude",
+    "category": "AI Assistant",
+    "desc_line1": "AI chatbot by Anthropic.",
+    "desc_line2": "Focuses on safe and helpful answers.",
+    "url": "https://claude.ai/",
+    "logo": "https://cdn.simpleicons.org/anthropic/E6E6E6"
+  },
+  {
+    "name": "GitHub Copilot",
     "category": "Coding",
-    "desc_line1": "Generates meaningful unit tests for developers.",
-    "desc_line2": "Improves software reliability automatically.",
-    "url": "https://www.codium.ai/",
-    "logo": "https://cdn.simpleicons.org/python/E6E6E6"
+    "desc_line1": "AI pair programmer by GitHub & OpenAI.",
+    "desc_line2": "Autocompletes code in real time.",
+    "url": "https://github.com/features/copilot",
+    "logo": "https://cdn.simpleicons.org/github/E6E6E6"
   },
   {
-    "name": "Mintlify",
-    "category": "Automation",
-    "desc_line1": "Auto-generates technical documentation.",
-    "desc_line2": "Integrates directly into codebases.",
-    "url": "https://mintlify.com/",
-    "logo": "https://cdn.simpleicons.org/gitbook/E6E6E6"
-  },
-  {
-    "name": "AdCreative.ai",
-    "category": "Business",
-    "desc_line1": "AI-generated ad banners and creatives.",
-    "desc_line2": "Optimized for conversions and campaigns.",
-    "url": "https://www.adcreative.ai/",
-    "logo": "https://cdn.simpleicons.org/googleads/E6E6E6"
-  },
-  {
-    "name": "Fitbod AI",
-    "category": "Health",
-    "desc_line1": "Personalized AI fitness coach.",
-    "desc_line2": "Adjusts workouts to goals and recovery.",
-    "url": "https://fitbod.me/",
-    "logo": "https://cdn.simpleicons.org/fitness/E6E6E6"
-  },
-  {
-    "name": "Cleo AI",
-    "category": "Finance",
-    "desc_line1": "AI finance assistant for budgeting and spending.",
-    "desc_line2": "Fun chat interface for money management.",
-    "url": "https://web.meetcleo.com/",
-    "logo": "https://cdn.simpleicons.org/paypal/E6E6E6"
-  },
-  {
-    "name": "Fireflies",
-    "category": "Study",
-    "desc_line1": "Automates meeting recording and summaries.",
-    "desc_line2": "Integrates with Zoom, Teams, and Google Meet.",
-    "url": "https://fireflies.ai/",
-    "logo": "https://cdn.simpleicons.org/googlemeet/E6E6E6"
-  },
-  {
-    "name": "DeepCode (Snyk AI)",
+    "name": "Cursor",
     "category": "Coding",
-    "desc_line1": "AI code review and bug detection tool.",
-    "desc_line2": "Improves security and reliability in codebases.",
-    "url": "https://snyk.io/developer-tools/deepcode-ai/",
-    "logo": "https://cdn.simpleicons.org/snyk/E6E6E6"
+    "desc_line1": "AI-first IDE for developers.",
+    "desc_line2": "Lets you chat with your code and debug quickly.",
+    "url": "https://cursor.sh/",
+    "logo": "https://cdn.simpleicons.org/visualstudiocode/E6E6E6"
   },
   {
-    "name": "Harness.io",
-    "category": "Automation",
-    "desc_line1": "AI-driven CI/CD pipeline optimization.",
-    "desc_line2": "Improves build, deploy, and monitoring.",
-    "url": "https://www.harness.io/",
-    "logo": "https://cdn.simpleicons.org/jenkins/E6E6E6"
+    "name": "Bolt",
+    "category": "Coding",
+    "desc_line1": "AI app and website generator.",
+    "desc_line2": "Turns text prompts into code instantly.",
+    "url": "https://bolt.new/",
+    "logo": "https://cdn.simpleicons.org/stackblitz/E6E6E6"
   },
   {
-    "name": "Sleep.io",
-    "category": "Health",
-    "desc_line1": "AI sleep coach with CBT-based programs.",
-    "desc_line2": "Improves sleep habits and quality.",
-    "url": "https://www.sleepio.com/",
-    "logo": "https://cdn.simpleicons.org/mozilla/E6E6E6"
+    "name": "Tabnine",
+    "category": "Coding",
+    "desc_line1": "AI code completion tool.",
+    "desc_line2": "Supports multiple languages and IDEs.",
+    "url": "https://www.tabnine.com/",
+    "logo": "https://cdn.simpleicons.org/javascript/E6E6E6"
   },
   {
-    "name": "SkinVision AI",
-    "category": "Health",
-    "desc_line1": "AI-based skin cancer risk detection.",
-    "desc_line2": "Scans moles and spots for early warnings.",
-    "url": "https://www.skinvision.com/",
-    "logo": "https://cdn.simpleicons.org/mediatemple/E6E6E6"
+    "name": "Grok",
+    "category": "AI Assistant",
+    "desc_line1": "Elon Musk’s AI chatbot (xAI).",
+    "desc_line2": "Integrated into X (Twitter).",
+    "url": "https://x.ai/",
+    "logo": "https://cdn.simpleicons.org/x/E6E6E6"
+  },
+  {
+    "name": "Lovable",
+    "category": "Coding",
+    "desc_line1": "AI app builder from prompts.",
+    "desc_line2": "Quickly creates full-stack applications.",
+    "url": "https://lovable.dev/",
+    "logo": "https://cdn.simpleicons.org/react/E6E6E6"
+  },
+  {
+    "name": "Codeium",
+    "category": "Coding",
+    "desc_line1": "Free AI code completion tool.",
+    "desc_line2": "Works in 70+ languages and IDEs.",
+    "url": "https://codeium.com/",
+    "logo": "https://cdn.simpleicons.org/c/E6E6E6"
   },
   {
     "name": "Replit Ghostwriter",
     "category": "Coding",
     "desc_line1": "AI coding assistant inside Replit IDE.",
-    "desc_line2": "Helps code, debug, and deploy apps.",
+    "desc_line2": "Helps you write, debug, and deploy code.",
     "url": "https://replit.com/site/ghostwriter",
     "logo": "https://cdn.simpleicons.org/replit/E6E6E6"
   },
   {
+    "name": "Windsurf",
+    "category": "Coding",
+    "desc_line1": "Next-gen AI coding environment.",
+    "desc_line2": "Alternative to Copilot with workspace context.",
+    "url": "https://windsurf.ai/",
+    "logo": "https://cdn.simpleicons.org/codeium/E6E6E6"
+  },
+  {
+    "name": "V0 by Vercel",
+    "category": "Coding",
+    "desc_line1": "AI UI generator by Vercel.",
+    "desc_line2": "Transforms text prompts into React components.",
+    "url": "https://v0.dev/",
+    "logo": "https://cdn.simpleicons.org/vercel/E6E6E6"
+  },
+  {
+    "name": "Blackbox AI",
+    "category": "Coding",
+    "desc_line1": "Code search and AI autocomplete.",
+    "desc_line2": "Extracts code snippets from natural language.",
+    "url": "https://www.blackbox.ai/",
+    "logo": "https://cdn.simpleicons.org/blackberry/E6E6E6"
+  },
+  {
+    "name": "Make",
+    "category": "Automation",
+    "desc_line1": "AI workflow automation tool.",
+    "desc_line2": "Connects apps with drag-and-drop logic.",
+    "url": "https://www.make.com/",
+    "logo": "https://cdn.simpleicons.org/airtable/E6E6E6"
+  },
+  {
+    "name": "Grammarly",
+    "category": "Study",
+    "desc_line1": "Checks grammar, tone, and clarity.",
+    "desc_line2": "Includes AI rephrasing and suggestions.",
+    "url": "https://www.grammarly.com/",
+    "logo": "https://cdn.simpleicons.org/grammarly/E6E6E6"
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "category": "Coding",
+    "desc_line1": "AI coding companion from AWS.",
+    "desc_line2": "Generates code suggestions for developers.",
+    "url": "https://aws.amazon.com/q/developer/",
+    "logo": "https://cdn.simpleicons.org/amazonaws/E6E6E6"
+  },
+  {
+    "name": "OpenRouter",
+    "category": "AI Infrastructure",
+    "desc_line1": "Gateway for multiple AI models.",
+    "desc_line2": "Lets you use OpenAI, Anthropic, Meta and more via API.",
+    "url": "https://openrouter.ai/",
+    "logo": "https://cdn.simpleicons.org/fastapi/E6E6E6"
+  },
+  {
+    "name": "Zapier",
+    "category": "Automation",
+    "desc_line1": "Automation platform with AI.",
+    "desc_line2": "Connects thousands of apps and workflows.",
+    "url": "https://zapier.com/ai",
+    "logo": "https://cdn.simpleicons.org/zapier/E6E6E6"
+  },
+  {
+    "name": "Notion AI",
+    "category": "Productivity",
+    "desc_line1": "AI integrated into Notion workspace.",
+    "desc_line2": "Helps with writing, summaries, and tasks.",
+    "url": "https://www.notion.so/product/ai",
+    "logo": "https://cdn.simpleicons.org/notion/E6E6E6"
+  },
+  {
+    "name": "Base44",
+    "category": "Coding",
+    "desc_line1": "Emerging AI dev tool.",
+    "desc_line2": "Experimental platform for app generation.",
+    "url": "https://base44.io/",
+    "logo": "https://cdn.simpleicons.org/angular/E6E6E6"
+  },
+  {
+    "name": "Locofy",
+    "category": "Coding",
+    "desc_line1": "Turns Figma designs into production-ready code.",
+    "desc_line2": "Speeds up front-end development.",
+    "url": "https://www.locofy.ai/",
+    "logo": "https://cdn.simpleicons.org/figma/E6E6E6"
+  },
+  {
+    "name": "Namelix",
+    "category": "Business",
+    "desc_line1": "AI startup/business name generator.",
+    "desc_line2": "Creates short, catchy brand names.",
+    "url": "https://namelix.com/",
+    "logo": "https://cdn.simpleicons.org/wordpress/E6E6E6"
+  },
+  {
+    "name": "Kolors Virtual",
+    "category": "Lifestyle",
+    "desc_line1": "Virtual fitting room for fashion.",
+    "desc_line2": "AI-driven outfit try-on experience.",
+    "url": "https://kolors.ai/",
+    "logo": "https://cdn.simpleicons.org/zalando/E6E6E6"
+  },
+  {
+    "name": "Uizard",
+    "category": "Design",
+    "desc_line1": "AI UI design tool.",
+    "desc_line2": "Transforms wireframes into mockups instantly.",
+    "url": "https://uizard.io/",
+    "logo": "https://cdn.simpleicons.org/sketch/E6E6E6"
+  },
+  {
+    "name": "Hostinger AI",
+    "category": "Business",
+    "desc_line1": "Web hosting with AI features.",
+    "desc_line2": "Includes AI website builder and support tools.",
+    "url": "https://www.hostinger.com/ai",
+    "logo": "https://cdn.simpleicons.org/hostinger/E6E6E6"
+  },
+  {
+    "name": "Vercel",
+    "category": "Coding",
+    "desc_line1": "Platform for front-end deployment.",
+    "desc_line2": "Offers AI features for Next.js developers.",
+    "url": "https://vercel.com/",
+    "logo": "https://cdn.simpleicons.org/vercel/E6E6E6"
+  },
+  {
+    "name": "Render",
+    "category": "Cloud",
+    "desc_line1": "Cloud hosting with AI integration.",
+    "desc_line2": "Supports apps, databases, and APIs.",
+    "url": "https://render.com/",
+    "logo": "https://cdn.simpleicons.org/heroku/E6E6E6"
+  },
+  {
+    "name": "Looka",
+    "category": "Design",
+    "desc_line1": "AI-powered logo maker.",
+    "desc_line2": "Generates custom branding assets.",
+    "url": "https://looka.com/",
+    "logo": "https://cdn.simpleicons.org/adobeillustrator/E6E6E6"
+  },
+  {
+    "name": "Keychain",
+    "category": "Security",
+    "desc_line1": "AI tool for secure key management.",
+    "desc_line2": "Protects credentials for developers.",
+    "url": "https://keychain.ai/",
+    "logo": "https://cdn.simpleicons.org/lock/E6E6E6"
+  },
+  {
+    "name": "SQLAI",
+    "category": "Coding",
+    "desc_line1": "Generate SQL queries from natural language.",
+    "desc_line2": "Speeds up database management.",
+    "url": "https://sqlai.ai/",
+    "logo": "https://cdn.simpleicons.org/mysql/E6E6E6"
+  },
+  {
+    "name": "Veo 3",
+    "category": "Creative",
+    "desc_line1": "Google’s AI video generation model.",
+    "desc_line2": "Creates cinematic videos from text prompts.",
+    "url": "https://deepmind.google/technologies/veo/",
+    "logo": "https://cdn.simpleicons.org/youtube/E6E6E6"
+  },
+  {
+    "name": "Softgen",
+    "category": "Coding",
+    "desc_line1": "Emerging AI dev platform.",
+    "desc_line2": "Focuses on app generation and automation.",
+    "url": "https://softgen.ai/",
+    "logo": "https://cdn.simpleicons.org/nextdotjs/E6E6E6"
+  },
+  {
+    "name": "Invideo",
+    "category": "Creative",
+    "desc_line1": "AI-powered video creation tool.",
+    "desc_line2": "Makes marketing and social videos quickly.",
+    "url": "https://invideo.io/",
+    "logo": "https://cdn.simpleicons.org/youtube/E6E6E6"
+  },
+  {
+    "name": "Leonardo AI",
+    "category": "Creative",
+    "desc_line1": "Generative AI for art and game assets.",
+    "desc_line2": "Popular alternative to MidJourney.",
+    "url": "https://leonardo.ai/",
+    "logo": "https://cdn.simpleicons.org/unity/E6E6E6"
+  },
+  {
+    "name": "Quillbot",
+    "category": "Study",
+    "desc_line1": "AI writing and paraphrasing tool.",
+    "desc_line2": "Helps rephrase, summarize, and check grammar.",
+    "url": "https://quillbot.com/",
+    "logo": "https://cdn.simpleicons.org/icloud/E6E6E6"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "Creative",
+    "desc_line1": "Realistic AI speech and voice cloning.",
+    "desc_line2": "Used for audiobooks, games, and content.",
+    "url": "https://elevenlabs.io/",
+    "logo": "https://cdn.simpleicons.org/elevenlabs/E6E6E6"
+  },
+  {
+    "name": "Beautiful AI",
+    "category": "Business",
+    "desc_line1": "AI-powered presentation creator.",
+    "desc_line2": "Makes slide design fast and smart.",
+    "url": "https://www.beautiful.ai/",
+    "logo": "https://cdn.simpleicons.org/slides/E6E6E6"
+  },
+  {
+    "name": "HubSpot AI",
+    "category": "Business",
+    "desc_line1": "AI tools for marketing and sales.",
+    "desc_line2": "Supports CRM, automation, and SEO.",
+    "url": "https://www.hubspot.com/artificial-intelligence",
+    "logo": "https://cdn.simpleicons.org/hubspot/E6E6E6"
+  },
+  {
+    "name": "Fireflies",
+    "category": "Productivity",
+    "desc_line1": "Meeting assistant for recording and summaries.",
+    "desc_line2": "Integrates with Zoom, Teams, and Google Meet.",
+    "url": "https://fireflies.ai/",
+    "logo": "https://cdn.simpleicons.org/googlemeet/E6E6E6"
+  },
+  {
+    "name": "Otter AI",
+    "category": "Productivity",
+    "desc_line1": "Real-time meeting transcription tool.",
+    "desc_line2": "Searchable transcripts with highlights.",
+    "url": "https://otter.ai/",
+    "logo": "https://cdn.simpleicons.org/otter/E6E6E6"
+  },
+  {
+    "name": "Jasper AI",
+    "category": "Business",
+    "desc_line1": "AI writer for blogs, ads, and emails.",
+    "desc_line2": "Supports teams with brand voice.",
+    "url": "https://www.jasper.ai/",
+    "logo": "https://cdn.simpleicons.org/markdown/E6E6E6"
+  },
+  {
+    "name": "GravityWrite",
+    "category": "Writing",
+    "desc_line1": "AI content generator for marketers.",
+    "desc_line2": "Helps create blogs, SEO text, and ads.",
+    "url": "https://gravitywrite.com/",
+    "logo": "https://cdn.simpleicons.org/writing/E6E6E6"
+  },
+  {
+    "name": "Monica AI",
+    "category": "Assistant/Extension",
+    "desc_line1": "Browser extension for AI assistance.",
+    "desc_line2": "Supports search, summarization, and chat.",
+    "url": "https://monica.im/",
+    "logo": "https://cdn.simpleicons.org/chrome/E6E6E6"
+  },
+  {
+    "name": "NotebookLM",
+    "category": "Study",
+    "desc_line1": "Google’s AI note-taking tool.",
+    "desc_line2": "Summarizes documents and connects ideas.",
+    "url": "https://notebooklm.google/",
+    "logo": "https://cdn.simpleicons.org/googlekeep/E6E6E6"
+  },
+  {
+    "name": "Viz AI",
+    "category": "Health",
+    "desc_line1": "AI for medical imaging and workflow.",
+    "desc_line2": "Helps doctors detect strokes and heart issues.",
+    "url": "https://www.viz.ai/",
+    "logo": "https://cdn.simpleicons.org/healthgraph/E6E6E6"
+  },
+  {
+    "name": "MyFitnessPal",
+    "category": "Health",
+    "desc_line1": "Tracks calories, meals, and exercise.",
+    "desc_line2": "Now includes AI-powered insights.",
+    "url": "https://www.myfitnesspal.com/",
+    "logo": "https://cdn.simpleicons.org/apple/E6E6E6"
+  },
+  {
+    "name": "ChefGPT",
+    "category": "Food",
+    "desc_line1": "AI recipe and meal planner.",
+    "desc_line2": "Generates dishes from ingredients you have.",
+    "url": "https://www.chefgpt.xyz/",
+    "logo": "https://cdn.simpleicons.org/foodpanda/E6E6E6"
+  },
+  {
+    "name": "Hailuo",
+    "category": "Creative",
+    "desc_line1": "AI video and content generation tool.",
+    "desc_line2": "Used for entertainment and marketing.",
+    "url": "https://hailuoai.video/",
+    "logo": "https://cdn.simpleicons.org/video/E6E6E6"
+  },
+  {
+    "name": "Oulfits AI",
+    "category": "Lifestyle",
+    "desc_line1": "AI outfit recommendation tool.",
+    "desc_line2": "Personalized fashion styling engine.",
+    "url": "https://outfitsai.com/",
+    "logo": "https://cdn.simpleicons.org/zalando/E6E6E6"
+  },
+  {
+    "name": "RoomGPT",
+    "category": "Lifestyle",
+    "desc_line1": "AI interior design generator.",
+    "desc_line2": "Transforms room photos into styled versions.",
+    "url": "https://roomgpt.io/",
+    "logo": "https://cdn.simpleicons.org/homeassistant/E6E6E6"
+  },
+  {
     "name": "Chatbase",
     "category": "Business",
-    "desc_line1": "Train chatbots on your data and embed them.",
-    "desc_line2": "Great for support and lead generation.",
+    "desc_line1": "Train custom chatbots on your data.",
+    "desc_line2": "Embed into websites and apps.",
     "url": "https://www.chatbase.co/",
     "logo": "https://cdn.simpleicons.org/chatbot/E6E6E6"
   },
   {
-    "name": "Mindmap.ai",
-    "category": "Study",
-    "desc_line1": "Transforms notes and ideas into mindmaps.",
-    "desc_line2": "Boosts brainstorming and visual learning.",
-    "url": "https://mindmap.ai/",
-    "logo": "https://cdn.simpleicons.org/airplayvideo/E6E6E6"
+    "name": "Harness",
+    "category": "Automation",
+    "desc_line1": "AI-powered CI/CD optimization platform.",
+    "desc_line2": "Automates builds, deploys, and testing.",
+    "url": "https://harness.io/",
+    "logo": "https://cdn.simpleicons.org/jenkins/E6E6E6"
   }
 ]
-
